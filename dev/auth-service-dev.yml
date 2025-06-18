@@ -9,7 +9,7 @@ spring:
     activate:
       on-profile: dev
 
-datasource:
+  datasource:
     url: jdbc:mysql://localhost:3306/hsm_auth_db
     username: root
     password: jobDrupal$123
